@@ -2,22 +2,15 @@
 
 ## CONNECTING PEOPLE, IMPROVING HEALTH
 
-The main purpose of technologies is to improve human life and the environment around us. However, the society insists on segmenting classes and, by the manipulation of the resources scarcity, which should be abundant, limit the individual and collective rights and freedoms, and, as consequence, we are faced with the reduction in the life quality and the perspectives of the future of populations.
+We understand that the various technologies developed have as their main purpose to improve and facilitate the lives of people and the world around them. It is natural that as we evolve technologically, past ways of solving some problems become obsolete and new solutions emerge. Human health is the most valuable asset in the world that impacts consumption, income generation and all the dynamism of any world politics.
 
-In order to reverse this logic and offer unrestricted access to health in an abundant, democratic and inclusive way, we would like to offer to the society a technological tool capable of generating abundance of health resources, where the individual and his relation and interaction with the other, society and nature will be able to provide concrete solutions to a healthy life.
+This manifesto invites to bring the individual as a central point of attention and with the purpose of generating significant value for what is tangible and intangible in human nature. To do so, using a data network distributed and granted by the owner of the information, it is intended to create a new ecosystem with the following premises:
 
-Using the Blockchain technology, we invite everyone, through our interactions, to create a health data network, in which we will be the agents capable of generating solutions, which bases should be:
+1. Give control and ownership of information to the owner of the information, rather than delegating to an intermediary;
+2. Unify and centralize information in a single identity, rather than fragmented into different systems and databases;
+3. Generate value for the information and for the individual, instead of working with massification of data without value;
+4. Ensure traceability with origin, destination and use of information, rather than indiscriminate and unsecured use of information.
 
-1. Empowerment of people, where the individual is not the patient, but the agent, the generator and the owner of their information;
-
-2. User centralized data generation capable of providing the network with reliable and faithful information;
-
-3. Generation and transmission of consistent information, capable of assisting in medical, pharmaceutical and wellness research and remunerating the parties involved;
-
-4. Creation of an "anti-fragile" system, supported by multiple nodes of the network, encryption, anonymity and database not corruptible and, at the same time, generic capable of adapting to multiple situations, people and cultures easily;
-
-5. User-focused solution, in which the Individuals will always be at the forefront of institutions, whether they are governments or for-profit entities.
-
-In short, the agentes information flows will be able to produce, transmit and generate the social capital of a health built by all.
+Thus, we aim as a consequence the unrestricted, abundant, democratic and inclusive offer so that all individuals can use in any way necessary for the maintenance and improvement of both their own health and derived activities.
 
 If you agree with these terms and would like to join us tweet your reasons why and use #myhealthdata
